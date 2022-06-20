@@ -42,7 +42,7 @@
 						},
 
 					// Delay.
-						delay: 1200
+						delay: 2200
 
 				};
 
