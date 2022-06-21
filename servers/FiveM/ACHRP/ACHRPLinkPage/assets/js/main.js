@@ -38,7 +38,14 @@
 						images: {
 							'images/Screenshot_215.png': 'center',
 							'images/Screenshot_230.png': 'center',
-							'images/Screenshot_236.png': 'center'
+							'images/Screenshot_236.png': 'center',
+							'images/IMG_0161.jpg': 'center',
+							'images/Screenshot_1.png': 'center',
+							'images/Screenshot_140.png': 'center',
+							'images/Screenshot_2.png': 'center',
+							'images/Screenshot_187.png': 'center',
+							'images/Screenshot_234.png': 'center',
+							'images/unknown.png': 'center'
 						},
 
 					// Delay.
