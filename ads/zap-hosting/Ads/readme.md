@@ -3,32 +3,19 @@
 
 This is so we can put the ads in html so they can be used as redirects or external pages.
 
-<script type="text/javascript">
-  var imageUrls = [
-       "https://zap-hosting.com/interface/download/images.php?type=affiliate&id=191907"
-     , "http://ww.mydomain.com/img/newspapers/reforma.png"
-     , "http://ww.mydomain.com/img/newspapers/nytimes.png"
-     , "http://ww.mydomain.com/img/newspapers/oglobo.png"
-     , "http://ww.mydomain.com/img/newspapers/lefigaro.png"
-     , "http://ww.mydomain.com/img/newspapers/spiegel.png"
-  ];
- var imageLinks = [
-       "https://zap-hosting.com/a/eeadb9270ea6a5974134fc69877df21128cab52d"
-      , "http://www.reforma.com/"
-       , "http://www.nytimes.com/"
-      , "https://oglobo.globo.com/"
-      , "http://www.lefigaro.fr/international/"
-     , "http://www.spiegel.de/international/"
-  ];
+<script>
+    var sites = [
+        'https://top.gg/servers/771641009209475073/vote',
+        'https://discordservers.me/servers/771641009209475073/upvote',
+        'https://discordservers.com/server/771641009209475073/bump',
+        'https://discord.com/invite/BBffzezDeE'
+    ];
 
-  function getImageHtmlCode() {
-    var dataIndex = Math.floor(Math.random() * imageUrls.length);
-    var img = '<a href="' + imageLinks[dataIndex] + '"><img src="';
-    img += imageUrls[dataIndex];
-    img += '" alt="*cricket noises*"/></a>';
-    return img;
-  }
+    function randomSite() {
+        var i = parseInt(Math.random() * sites.length);
+        location.href = sites[i];
+    }
 </script>
-<body bgcolor="white">
-<script type="text/javascript">
-  document.write(getImageHtmlCode());
+<a href="#" onclick="randomSite();">Please click here!</a>
+
+https://zap-hosting.com/a/eeadb9270ea6a5974134fc69877df21128cab52d
