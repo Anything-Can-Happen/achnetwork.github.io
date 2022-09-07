@@ -1,1 +1,1 @@
-
+<head> <meta http-equiv="refresh" content="2; URL=https://achnetwork-appeal.netlify.app/" /> </head> <body> <p>You should be redirected in 2 seconds, If you are not redirected, <a href="https://achnetwork-appeal.netlify.app/">click here</a>.</p> </body>
