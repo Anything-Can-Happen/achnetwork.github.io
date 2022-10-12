@@ -8,3 +8,5 @@
 [Arkadius Roleplay](https://achnetwork.xyz/extra/blacklists-archive/arkadiusrp-blacklist.html)
 
 [CaliRP (California Roleplay)](https://achnetwork.xyz/extra/blacklists-archive/calirp-blacklist.html)
+
+[Southern California Roleplay (SCRP)](https://achnetwork.xyz/extra/blacklists-archive/Southern%20California%20RP.html)
