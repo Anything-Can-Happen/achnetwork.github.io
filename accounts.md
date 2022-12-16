@@ -1,4 +1,5 @@
-**ACCOUNTS NOT STATED HERE ARE MOST LIKELY NOT AFFILATED, ENODRSED, OWNED, AND OPERATED BY ACHNETWORK or any Employee** Report these kinds of accounts to us immediently!
+<link href="https://achnetwork.xyz/extra/css/info-pages.css" rel="stylesheet">
+**ACCOUNTS NOT STATED HERE ARE MOST LIKELY NOT AFFILATED, ENODRSED, OWNED, NOR OPERATED BY ACHNETWORK or any Employee** Report these kinds of accounts to us immediently!
 *All links should take you to the account, We may have accounts with some connections such as external social medias which is a good way to verify if it's an account owned by us*
 
 # Official ACHNetwork Accounts
@@ -10,3 +11,8 @@
 [iKvvinL TikTok](https://www.tiktok.com/@ikvvinl) - iKvvinL TikTok
 [Reddit ACHRP](https://www.reddit.com/r/AnythingCanHappenRP/) - Reddit Community (ACHRP)
 [Youtube](https://www.youtube.com/channel/UC-jTujasOcNGXtlFOchLIlA) - Official ACHNetwork Youtube Channel
+
+*Any Official Employee is found within the ACHHub Discord Server*
+[ACHHub Discord](https://discord.gg/83VUjFh7zB)
+
+*© ACHNetwork*
