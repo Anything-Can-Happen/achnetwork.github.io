@@ -1,0 +1,1 @@
+<head> <meta http-equiv="refresh" content="2; URL=https://anything-can-happen.github.io/achnetwork.github.io/" /> </head> <body> <p>This is our old website, If you are not redirected on load, <a href="https://achnetwork.xyz/servers/FiveM/ACHRP/ACHRPLinkPage/index.html">click here</a>.</p> </body>
